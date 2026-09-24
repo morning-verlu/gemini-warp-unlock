@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 本地测试产物与备份
+*.bak
+*.bak.*
+config.json.bak*
+test.yaml
+/mt/
